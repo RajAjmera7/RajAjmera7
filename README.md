@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" >
 
-- 🌱 I’m currently learning **Node js , Mongo db**
+- 🌱 I’m currently learning **Ai Automation , Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajAjmera7?tab=repositories](https://github.com/RajAjmera7?tab=repositories)
 
