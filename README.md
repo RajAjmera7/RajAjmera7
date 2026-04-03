@@ -20,7 +20,7 @@
 ---
 
 ### 🔗 Portfolio & Projects
-👉 [View My Work](https://github.com/RajAjmera7?tab=repositories)
+👉 [View My Work](https://rajajmera.vercel.app/)
 
 ---
 
